@@ -20,7 +20,6 @@ public class Launch {
 		
 		System.out.println(title);
 		
-		System.out.println(title);
 		@Nullable
 		String currentUrl = Driver.getCurrentUrl();
 		
