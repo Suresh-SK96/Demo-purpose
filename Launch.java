@@ -23,9 +23,8 @@ public class Launch {
 		@Nullable
 		String currentUrl = Driver.getCurrentUrl();
 		
-		System.out.println(currentUrl);
-		
-		Driver.quit();
+	
+
 		
 	}
 
