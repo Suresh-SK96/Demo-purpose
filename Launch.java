@@ -24,9 +24,11 @@ public class Launch {
 		String currentUrl = Driver.getCurrentUrl();
 		
 		
-		System.out.println(currentUrl);
 		
-		Driver.quit();
+		
+		System.out.println(currentUrl and Current system);
+		
+		Driver.quit();	
 
 		
 	}
